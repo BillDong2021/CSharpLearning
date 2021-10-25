@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AssemblyReference/1.0.0": {
+        "dependencies": {
+          "SuperCalculator": "1.0.0"
+        },
+        "runtime": {
+          "AssemblyReference.dll": {}
+        }
+      },
+      "SuperCalculator/1.0.0": {
+        "runtime": {
+          "SuperCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssemblyReference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SuperCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

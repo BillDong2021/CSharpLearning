@@ -1,0 +1,11 @@
+D:\Github\CSharpLearning\ClassLibrary\bin\Debug\net5.0\SuperCalculator.deps.json
+D:\Github\CSharpLearning\ClassLibrary\bin\Debug\net5.0\SuperCalculator.dll
+D:\Github\CSharpLearning\ClassLibrary\bin\Debug\net5.0\ref\SuperCalculator.dll
+D:\Github\CSharpLearning\ClassLibrary\bin\Debug\net5.0\SuperCalculator.pdb
+D:\Github\CSharpLearning\ClassLibrary\obj\Debug\net5.0\SuperCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CSharpLearning\ClassLibrary\obj\Debug\net5.0\SuperCalculator.AssemblyInfoInputs.cache
+D:\Github\CSharpLearning\ClassLibrary\obj\Debug\net5.0\SuperCalculator.AssemblyInfo.cs
+D:\Github\CSharpLearning\ClassLibrary\obj\Debug\net5.0\SuperCalculator.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\ClassLibrary\obj\Debug\net5.0\SuperCalculator.dll
+D:\Github\CSharpLearning\ClassLibrary\obj\Debug\net5.0\ref\SuperCalculator.dll
+D:\Github\CSharpLearning\ClassLibrary\obj\Debug\net5.0\SuperCalculator.pdb
