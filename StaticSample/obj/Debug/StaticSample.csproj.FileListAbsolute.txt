@@ -1,0 +1,7 @@
+D:\Github\CSharpLearning\StaticSample\bin\Debug\StaticSample.exe.config
+D:\Github\CSharpLearning\StaticSample\bin\Debug\StaticSample.exe
+D:\Github\CSharpLearning\StaticSample\bin\Debug\StaticSample.pdb
+D:\Github\CSharpLearning\StaticSample\obj\Debug\StaticSample.csproj.AssemblyReference.cache
+D:\Github\CSharpLearning\StaticSample\obj\Debug\StaticSample.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\StaticSample\obj\Debug\StaticSample.exe
+D:\Github\CSharpLearning\StaticSample\obj\Debug\StaticSample.pdb

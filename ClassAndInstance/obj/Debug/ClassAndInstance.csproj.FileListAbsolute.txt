@@ -1,0 +1,6 @@
+D:\Github\CSharpLearning\ClassAndInstance\bin\Debug\ClassAndInstance.exe.config
+D:\Github\CSharpLearning\ClassAndInstance\bin\Debug\ClassAndInstance.exe
+D:\Github\CSharpLearning\ClassAndInstance\bin\Debug\ClassAndInstance.pdb
+D:\Github\CSharpLearning\ClassAndInstance\obj\Debug\ClassAndInstance.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\ClassAndInstance\obj\Debug\ClassAndInstance.exe
+D:\Github\CSharpLearning\ClassAndInstance\obj\Debug\ClassAndInstance.pdb
