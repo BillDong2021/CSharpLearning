@@ -1,0 +1,7 @@
+C:\Users\3404\source\repos\SumExample\bin\Debug\SumExample.exe.config
+C:\Users\3404\source\repos\SumExample\bin\Debug\SumExample.exe
+C:\Users\3404\source\repos\SumExample\bin\Debug\SumExample.pdb
+C:\Users\3404\source\repos\SumExample\obj\Debug\SumExample.csproj.AssemblyReference.cache
+C:\Users\3404\source\repos\SumExample\obj\Debug\SumExample.csproj.CoreCompileInputs.cache
+C:\Users\3404\source\repos\SumExample\obj\Debug\SumExample.exe
+C:\Users\3404\source\repos\SumExample\obj\Debug\SumExample.pdb
