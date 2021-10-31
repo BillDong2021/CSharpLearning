@@ -1,0 +1,7 @@
+D:\Github\CSharpLearning\StackOverflow\obj\Debug\StackOverflow.csproj.AssemblyReference.cache
+D:\Github\CSharpLearning\StackOverflow\obj\Debug\StackOverflow.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\StackOverflow\bin\Debug\StackOverflow.exe.config
+D:\Github\CSharpLearning\StackOverflow\bin\Debug\StackOverflow.exe
+D:\Github\CSharpLearning\StackOverflow\bin\Debug\StackOverflow.pdb
+D:\Github\CSharpLearning\StackOverflow\obj\Debug\StackOverflow.exe
+D:\Github\CSharpLearning\StackOverflow\obj\Debug\StackOverflow.pdb
