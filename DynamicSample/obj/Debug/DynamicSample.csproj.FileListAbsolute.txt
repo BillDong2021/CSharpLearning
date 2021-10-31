@@ -1,0 +1,7 @@
+D:\Github\CSharpLearning\DynamicSample\bin\Debug\DynamicSample.exe.config
+D:\Github\CSharpLearning\DynamicSample\bin\Debug\DynamicSample.exe
+D:\Github\CSharpLearning\DynamicSample\bin\Debug\DynamicSample.pdb
+D:\Github\CSharpLearning\DynamicSample\obj\Debug\DynamicSample.csproj.AssemblyReference.cache
+D:\Github\CSharpLearning\DynamicSample\obj\Debug\DynamicSample.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\DynamicSample\obj\Debug\DynamicSample.exe
+D:\Github\CSharpLearning\DynamicSample\obj\Debug\DynamicSample.pdb
