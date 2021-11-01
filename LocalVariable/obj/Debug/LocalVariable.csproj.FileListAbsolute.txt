@@ -1,0 +1,7 @@
+D:\Github\CSharpLearning\LocalVariable\bin\Debug\LocalVariable.exe.config
+D:\Github\CSharpLearning\LocalVariable\bin\Debug\LocalVariable.exe
+D:\Github\CSharpLearning\LocalVariable\bin\Debug\LocalVariable.pdb
+D:\Github\CSharpLearning\LocalVariable\obj\Debug\LocalVariable.csproj.AssemblyReference.cache
+D:\Github\CSharpLearning\LocalVariable\obj\Debug\LocalVariable.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\LocalVariable\obj\Debug\LocalVariable.exe
+D:\Github\CSharpLearning\LocalVariable\obj\Debug\LocalVariable.pdb
