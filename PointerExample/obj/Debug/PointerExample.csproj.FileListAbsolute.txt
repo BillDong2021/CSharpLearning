@@ -1,0 +1,7 @@
+D:\Github\CSharpLearning\PointerExample\bin\Debug\PointerExample.exe.config
+D:\Github\CSharpLearning\PointerExample\bin\Debug\PointerExample.exe
+D:\Github\CSharpLearning\PointerExample\bin\Debug\PointerExample.pdb
+D:\Github\CSharpLearning\PointerExample\obj\Debug\PointerExample.csproj.AssemblyReference.cache
+D:\Github\CSharpLearning\PointerExample\obj\Debug\PointerExample.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\PointerExample\obj\Debug\PointerExample.exe
+D:\Github\CSharpLearning\PointerExample\obj\Debug\PointerExample.pdb
