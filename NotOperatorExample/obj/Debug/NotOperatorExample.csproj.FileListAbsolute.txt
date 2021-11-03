@@ -1,0 +1,7 @@
+D:\Github\CSharpLearning\NotOperatorExample\bin\Debug\NotOperatorExample.exe.config
+D:\Github\CSharpLearning\NotOperatorExample\bin\Debug\NotOperatorExample.exe
+D:\Github\CSharpLearning\NotOperatorExample\bin\Debug\NotOperatorExample.pdb
+D:\Github\CSharpLearning\NotOperatorExample\obj\Debug\NotOperatorExample.csproj.AssemblyReference.cache
+D:\Github\CSharpLearning\NotOperatorExample\obj\Debug\NotOperatorExample.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\NotOperatorExample\obj\Debug\NotOperatorExample.exe
+D:\Github\CSharpLearning\NotOperatorExample\obj\Debug\NotOperatorExample.pdb
