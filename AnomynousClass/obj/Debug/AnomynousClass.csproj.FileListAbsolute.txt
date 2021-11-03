@@ -1,0 +1,7 @@
+D:\Github\CSharpLearning\AnomynousClass\bin\Debug\AnomynousClass.exe.config
+D:\Github\CSharpLearning\AnomynousClass\bin\Debug\AnomynousClass.exe
+D:\Github\CSharpLearning\AnomynousClass\bin\Debug\AnomynousClass.pdb
+D:\Github\CSharpLearning\AnomynousClass\obj\Debug\AnomynousClass.csproj.AssemblyReference.cache
+D:\Github\CSharpLearning\AnomynousClass\obj\Debug\AnomynousClass.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\AnomynousClass\obj\Debug\AnomynousClass.exe
+D:\Github\CSharpLearning\AnomynousClass\obj\Debug\AnomynousClass.pdb
