@@ -1,0 +1,7 @@
+D:\Github\CSharpLearning\TryCatchExample\obj\Debug\TryCatchExample.csproj.AssemblyReference.cache
+D:\Github\CSharpLearning\TryCatchExample\obj\Debug\TryCatchExample.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\TryCatchExample\bin\Debug\TryCatchExample.exe.config
+D:\Github\CSharpLearning\TryCatchExample\bin\Debug\TryCatchExample.exe
+D:\Github\CSharpLearning\TryCatchExample\bin\Debug\TryCatchExample.pdb
+D:\Github\CSharpLearning\TryCatchExample\obj\Debug\TryCatchExample.exe
+D:\Github\CSharpLearning\TryCatchExample\obj\Debug\TryCatchExample.pdb
