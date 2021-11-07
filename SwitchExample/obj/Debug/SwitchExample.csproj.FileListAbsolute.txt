@@ -1,0 +1,7 @@
+C:\Users\3404\source\repos\SwitchExample\obj\Debug\SwitchExample.csproj.AssemblyReference.cache
+C:\Users\3404\source\repos\SwitchExample\obj\Debug\SwitchExample.csproj.CoreCompileInputs.cache
+C:\Users\3404\source\repos\SwitchExample\bin\Debug\SwitchExample.exe.config
+C:\Users\3404\source\repos\SwitchExample\bin\Debug\SwitchExample.exe
+C:\Users\3404\source\repos\SwitchExample\bin\Debug\SwitchExample.pdb
+C:\Users\3404\source\repos\SwitchExample\obj\Debug\SwitchExample.exe
+C:\Users\3404\source\repos\SwitchExample\obj\Debug\SwitchExample.pdb
