@@ -1,0 +1,7 @@
+D:\Github\CSharpLearning\PropertyExample\bin\Debug\PropertyExample.exe.config
+D:\Github\CSharpLearning\PropertyExample\bin\Debug\PropertyExample.exe
+D:\Github\CSharpLearning\PropertyExample\bin\Debug\PropertyExample.pdb
+D:\Github\CSharpLearning\PropertyExample\obj\Debug\PropertyExample.csproj.AssemblyReference.cache
+D:\Github\CSharpLearning\PropertyExample\obj\Debug\PropertyExample.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\PropertyExample\obj\Debug\PropertyExample.exe
+D:\Github\CSharpLearning\PropertyExample\obj\Debug\PropertyExample.pdb
