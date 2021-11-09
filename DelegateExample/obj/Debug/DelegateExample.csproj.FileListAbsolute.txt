@@ -1,0 +1,7 @@
+D:\Github\CSharpLearning\DelegateExample\obj\Debug\DelegateExample.csproj.AssemblyReference.cache
+D:\Github\CSharpLearning\DelegateExample\obj\Debug\DelegateExample.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\DelegateExample\bin\Debug\DelegateExample.exe.config
+D:\Github\CSharpLearning\DelegateExample\bin\Debug\DelegateExample.exe
+D:\Github\CSharpLearning\DelegateExample\bin\Debug\DelegateExample.pdb
+D:\Github\CSharpLearning\DelegateExample\obj\Debug\DelegateExample.exe
+D:\Github\CSharpLearning\DelegateExample\obj\Debug\DelegateExample.pdb
