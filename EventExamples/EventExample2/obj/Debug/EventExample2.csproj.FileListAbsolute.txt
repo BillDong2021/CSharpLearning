@@ -1,0 +1,7 @@
+D:\Github\CSharpLearning\EventExamples\EventExample2\bin\Debug\EventExample2.exe.config
+D:\Github\CSharpLearning\EventExamples\EventExample2\bin\Debug\EventExample2.exe
+D:\Github\CSharpLearning\EventExamples\EventExample2\bin\Debug\EventExample2.pdb
+D:\Github\CSharpLearning\EventExamples\EventExample2\obj\Debug\EventExample2.csproj.AssemblyReference.cache
+D:\Github\CSharpLearning\EventExamples\EventExample2\obj\Debug\EventExample2.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\EventExamples\EventExample2\obj\Debug\EventExample2.exe
+D:\Github\CSharpLearning\EventExamples\EventExample2\obj\Debug\EventExample2.pdb
