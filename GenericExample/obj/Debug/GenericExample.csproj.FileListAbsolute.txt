@@ -1,0 +1,7 @@
+D:\Github\CSharpLearning\GenericExample\bin\Debug\GenericExample.exe.config
+D:\Github\CSharpLearning\GenericExample\bin\Debug\GenericExample.exe
+D:\Github\CSharpLearning\GenericExample\bin\Debug\GenericExample.pdb
+D:\Github\CSharpLearning\GenericExample\obj\Debug\GenericExample.csproj.AssemblyReference.cache
+D:\Github\CSharpLearning\GenericExample\obj\Debug\GenericExample.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\GenericExample\obj\Debug\GenericExample.exe
+D:\Github\CSharpLearning\GenericExample\obj\Debug\GenericExample.pdb
