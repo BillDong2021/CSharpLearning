@@ -1,0 +1,7 @@
+D:\Github\CSharpLearning\MethodPractice\Question6\Question6\bin\Debug\Question6.exe.config
+D:\Github\CSharpLearning\MethodPractice\Question6\Question6\bin\Debug\Question6.exe
+D:\Github\CSharpLearning\MethodPractice\Question6\Question6\bin\Debug\Question6.pdb
+D:\Github\CSharpLearning\MethodPractice\Question6\Question6\obj\Debug\Question6.csproj.AssemblyReference.cache
+D:\Github\CSharpLearning\MethodPractice\Question6\Question6\obj\Debug\Question6.csproj.CoreCompileInputs.cache
+D:\Github\CSharpLearning\MethodPractice\Question6\Question6\obj\Debug\Question6.exe
+D:\Github\CSharpLearning\MethodPractice\Question6\Question6\obj\Debug\Question6.pdb
